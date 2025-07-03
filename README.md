@@ -47,7 +47,7 @@ bash
 Copy
 Edit
 
-git clone https://github.com/yourusername/password-strength-checker.git
+git clone https://github.com/TDhoke1705/SCT_CS_02
 cd password-strength-checker
 
 Run the script
